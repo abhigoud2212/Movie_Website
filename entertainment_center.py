@@ -33,6 +33,5 @@ the_intern = media.Movie("The Intern",
                          url_links.the_intern_trailer)
 
 # created the movie list and called open_movies_page
-
 movie_list = [avatar, toy_story, the_dark_knight, argo, spectre, the_intern]
 fresh_tomatoes.open_movies_page(movie_list)
